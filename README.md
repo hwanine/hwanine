@@ -13,7 +13,7 @@ I always pay attention to new technology and enjoy learning new and diverse tech
 
 <a href="https://www.facebook.com/profile.php?id=100001739969149/" target="_blank">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-informational?style=flat&logo=Facebook&link=https://www.facebook.com/profile.php?id=100001739969149/"
+        src="http://img.shields.io/badge/-Facebook-9cf?style=flat&logo=Facebook&link=https://www.facebook.com/profile.php?id=100001739969149/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
