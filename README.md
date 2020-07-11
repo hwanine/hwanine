@@ -7,7 +7,7 @@
 
 I am a software junior developer.
 
-My main focus areas are `Android`, `IOS` and `Windows`.
+My main focus areas are **`Android`**, **`IOS`** and **`Windows`**.
 
 I always pay attention to new technology and enjoy learning new and diverse technology stacks.
 
