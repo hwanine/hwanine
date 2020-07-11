@@ -3,11 +3,13 @@
 
 # Dev. Ricky Lee
 
-`Android`, `IOS`, `Windows` 
+**Welcome to my page!**
 
-소프트웨어 주니어 개발자입니다.
+I am a software junior developer.
 
-항상 신기술에 주목하며 새롭고 다양한 기술스택을 학습하는 것을 즐깁니다.
+My main focus areas are `Android`, `IOS` and `Windows`.
+
+I always pay attention to new technology and enjoy learning new and diverse technology stacks.
 
 <a href="https://www.facebook.com/profile.php?id=100001739969149/" target="_blank">
     <img 
