@@ -3,7 +3,7 @@
 
 # Ricky Lee
 
-**Hi**
+**Hi!**
 
 I am a software junior developer.
 
