@@ -1,9 +1,7 @@
 ![](https://img.shields.io/github/followers/hwanine?style=social)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwanine%2Fhwanine)](https://hits.seeyoufarm.com)
 
-# Ricky Lee
-
-**Hi!**
+# Intro
 
 I am a software junior developer.
 
