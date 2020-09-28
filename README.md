@@ -1,9 +1,9 @@
 ![](https://img.shields.io/github/followers/hwanine?style=social)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwanine%2Fhwanine)](https://hits.seeyoufarm.com)
 
-# Dev. Ricky Lee
+# Ricky Lee
 
-**Welcome to my page!**
+**Hi**
 
 I am a software junior developer.
 
@@ -26,11 +26,5 @@ I always pay attention to new technology and enjoy learning new and diverse tech
 <a href="https://hwanine.github.io/" target="_blank">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://hwanine.github.io/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-<a href="https://devjhlee.github.io/" target="_blank">
-    <img 
-        src="http://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=github&link=https://devjhlee.github.io/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
