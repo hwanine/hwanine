@@ -26,3 +26,5 @@ I always pay attention to new technology and enjoy learning new and diverse tech
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://hwanine.github.io/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+![Ricky's github stats](https://github-readme-stats.vercel.app/api?username=hwanine&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
