@@ -33,5 +33,5 @@ I always pay attention to new technology and enjoy learning new and diverse tech
 
 ![hwanine's github stats](https://github-readme-stats.vercel.app/api?username=hwanine&theme=buefy&show_icons=true&hide=stars,issues)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwanine&layout=compact&exclude_repo=TestBlog,hwanine.github.io,Coffee-ShopMall&langs_count=10&hide=ruby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwanine&layout=compact&exclude_repo=TestBlog,Coffee-ShopMall&langs_count=10&hide=ruby)](https://github.com/anuraghazra/github-readme-stats)
 
