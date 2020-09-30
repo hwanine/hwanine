@@ -29,6 +29,6 @@ I always pay attention to new technology and enjoy learning new and diverse tech
 
 <br>
 
-![hwanine's github stats](https://github-readme-stats.vercel.app/api?username=hwanine&theme=buefy&show_icons=true&hide=stars,issues,contribs)
+![hwanine's github stats](https://github-readme-stats.vercel.app/api?username=hwanine&theme=buefy&show_icons=true&hide=stars,issues)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwanine&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
