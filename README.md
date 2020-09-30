@@ -3,7 +3,7 @@
 
 # Intro
 
-I am a junior **client developer**.
+I am a junior **`client developer`**.
 
 My main focus areas are **`Android`**, **`IOS`** and **`Windows`** App.
 
