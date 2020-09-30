@@ -5,7 +5,7 @@
 
 I am a junior **client developer**.
 
-My main focus areas are **`Android`**, **`IOS`** and **`Windows`** App.
+My main focus area is **App** of **`Android`**, **`IOS`** and **`Windows`**.
 
 I always pay attention to new technology and enjoy learning new and diverse technology stacks.
 
