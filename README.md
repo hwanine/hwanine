@@ -3,9 +3,9 @@
 
 # Intro
 
-I am a software junior developer.
+I am a junior **client developer**.
 
-My main focus areas are **`Android`**, **`IOS`** and **`Windows`**.
+My main focus area is **`Android`**, **`IOS`** and **`Windows`** Application.
 
 I always pay attention to new technology and enjoy learning new and diverse technology stacks.
 
