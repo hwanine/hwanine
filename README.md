@@ -35,4 +35,4 @@ I always pay attention to new technology and enjoy learning new and diverse tech
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwanine&layout=compact&hide=html,javascript,php,scss,ruby&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
-*except: html,javascript,php,scss
+*except: html,javascript,php,scss*
